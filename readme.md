@@ -71,3 +71,8 @@ Open [localhost:8000](http://127.0.0.1:8000/)
 
 ## Contact Information   
 kinuthianatasha@gmail.com 
+
+
+ ### License
+  
+  * LICENSED UNDER  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](license/MIT)
