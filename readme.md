@@ -76,6 +76,8 @@ Open [localhost:8000](http://127.0.0.1:8000/)
     - http://127.0.0.1:8000api/profile
 
 
+## Here is are the screenshots of the api endpoints
+
 ## Her
 
 ## Contact Information   
