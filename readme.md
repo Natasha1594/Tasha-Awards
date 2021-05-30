@@ -79,6 +79,7 @@ Open [localhost:8000](http://127.0.0.1:8000/)
 ## Here is are the screenshots of the api endpoints
 <img src="images/projects.png">    
 
+<img src="images/profile.png">
 
 ## Contact Information   
 kinuthianatasha@gmail.com 
