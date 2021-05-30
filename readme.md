@@ -69,6 +69,10 @@ Open [localhost:8000](http://127.0.0.1:8000/)
 * HTML
 * CSS
 
+## Here are the API-Endpoint links
+    <ul>http://127.0.0.1:8000/api/projects</ul>
+    <ul>http://127.0.0.1:8000api/profile</ul>
+
 ## Contact Information   
 kinuthianatasha@gmail.com 
 
