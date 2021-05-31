@@ -1,4 +1,4 @@
-# Tasha Awardss
+# Tasha Awwards
 
 <img src="images/awwards.png">
 
